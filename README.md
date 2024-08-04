@@ -1,5 +1,5 @@
 
-Converting JPG to GeoTIFF
+## Converting JPG to GeoTIFF
 
 This Jupyter Notebook provides a step-by-step guide to converting JPG images with embedded GPS information into georeferenced GeoTIFF files. 
 Additionally, it includes functionality to read and display TIFF files using OpenCV and resize images using PIL.
