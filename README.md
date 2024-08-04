@@ -24,7 +24,7 @@ Additionally, it includes functionality to read and display TIFF files using Ope
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/venkateshkumarraju/converting-jpg-to-geotif.git
     ```
 
 2. Create a virtual environment (optional but recommended):
